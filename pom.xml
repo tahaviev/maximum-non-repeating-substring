@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.tahaviev</groupId>
     <artifactId>maximum-non-repeating-substring</artifactId>
-    <version>0.2-SNAPSHOT</version>
+    <version>0.3-SNAPSHOT</version>
     <dependencies>
         <dependency>
             <groupId>org.cactoos</groupId>
